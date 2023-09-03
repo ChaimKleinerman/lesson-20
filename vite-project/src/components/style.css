@@ -1,0 +1,49 @@
+
+#header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+#title{
+    padding: 16px;
+}
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    margin:8px;
+}
+#book{
+    margin: 0;
+    padding: 0;
+    align-self: center;
+}
+
+#p{
+    width: 200px;
+}
+#h2{
+    text-align: center;
+}
+#footer{
+    display: flex;
+    justify-content: center;
+}
+#watch{
+    text-align: center;
+}
+#img{
+    max-width: 300px;
+}
+#button{
+    border-radius: 20px;
+}
